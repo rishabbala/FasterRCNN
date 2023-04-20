@@ -1,1 +1,1 @@
-![alt text](https://github.com/rishabbala/FasterRCNN/blob/master/1.png)
+![alt text](https://github.com/rishabbala/FasterRCNN/tree/master/results/1.png)
